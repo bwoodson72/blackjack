@@ -1,0 +1,62 @@
+
+"""a list of dictionaries
+name = name of card in the deck
+value is the int value of the card
+"""
+deck = [
+
+    {"name": "ace of clubs", 'value': 1},
+    {"name": "two of clubs", 'value': 2},
+    {"name": "three of clubs", "value": 3},
+    {"name": "four of clubs", 'value': 4},
+    {"name": "five of clubs", 'value': 5},
+    {"name": "six of clubs", 'value': 6},
+    {"name": "seven of clubs", 'value': 7},
+    {"name": "eight of clubs", 'value': 8},
+    {"name": "nine of clubs", 'value': 9},
+    {"name": "ten of clubs", 'value': 10},
+    {"name": "jack of clubs", 'value': 10},
+    {"name": "queen of clubs", 'value': 10},
+    {"name": "king of clubs", 'value': 10},
+    {"name": "ace of spades", 'value': 1},
+    {"name": "two of spades", 'value': 2},
+    {"name": "three of spades", 'value': 3},
+    {"name": "four of spades", 'value': 4},
+    {"name": "five of spades", 'value': 5},
+    {"name": "six of spades", 'value': 6},
+    {"name": "seven of spades", 'value': 7},
+    {"name": "eight of spades", 'value': 8},
+    {"name": "nine of spades", 'value': 9},
+    {"name": "ten of spades", 'value': 10},
+    {"name": "jack of spades", 'value': 10},
+    {"name": "queen of spades", 'value': 10},
+    {"name": "king of spades", 'value': 10},
+    {"name": "ace of hearts", 'value': 1},
+    {"name": "two of hearts", 'value': 2},
+    {"name": "three of hearts", 'value': 3},
+    {"name": "four of hearts", 'value': 4},
+    {"name": "five of hearts", 'value': 5},
+    {"name": "six of hearts", 'value': 6},
+    {"name": "seven of hearts", 'value': 7},
+    {"name": "eight of hearts", 'value': 8},
+    {"name": "nine of hearts", 'value': 9},
+    {"name": "ten of hearts", 'value': 10},
+    {"name": "jack of hearts", 'value': 10},
+    {"name": "queen of hearts", 'value': 10},
+    {"name": "king of hearts", 'value': 10},
+    {"name": "ace of diamonds", 'value': 1},
+    {"name": "two of diamonds", 'value': 2},
+    {"name": "three of diamonds", 'value': 3},
+    {"name": "four of diamonds", 'value': 4},
+    {"name": "five of diamonds", 'value': 5},
+    {"name": "six of diamonds", 'value': 6},
+    {"name": "seven of diamonds", 'value': 7},
+    {"name": "eight of diamonds", 'value': 8},
+    {"name": "nine of diamonds", 'value': 9},
+    {"name": "ten of diamonds", 'value': 10},
+    {"name": "jack of diamonds", 'value': 10},
+    {"name": "queen of diamonds", 'value': 10},
+    {"name": "king of diamonds", 'value': 10}
+]
+
+aces = ['ace of hearts', 'ace of diamonds', 'ace of clubs', 'ace of spades']
